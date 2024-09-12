@@ -1,3 +1,3 @@
 ﻿# Sudoku_Solver
 
-Esse programa usa a ideia de graph coloring para resolver sudoku.
+This programm uses the idea of graph coloring to solve the sudoku game with a chosen size and optionally some configuration of numbers preseted.
